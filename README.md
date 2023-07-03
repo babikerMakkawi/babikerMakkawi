@@ -28,7 +28,8 @@ I'm proficient in a variety of web development tools and technologies, including
   📜 Git
   💻 GitHub
   🖥️ GitHub Desktop
-
+  
+<hr>
 My expertise lies in Laravel, a powerful PHP framework that enables me to create scalable and efficient web applications with ease. I'm well-versed in leveraging the full potential of this framework to deliver top-notch digital solutions that meet and exceed my clients' expectations.
 
 Working with servers such as Ubuntu, Apache, and Nginx is second nature to me, and I'm confident in deploying projects across various hosting platforms. I pay meticulous attention to detail when it comes to server configurations and settings, ensuring that all deployments are carried out smoothly and without any issues.
