@@ -1,3 +1,4 @@
+<div style="background-color:#f1edf0 !important;">
 <h1><p align="center">Hello, I'm Babiker Makkawi<a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
@@ -42,3 +43,4 @@ I'm always eager to collaborate with like-minded individuals and businesses on e
 Whether you have questions about my work or are interested in discussing a potential collaboration, feel free to reach out to me anytime. I'm always up for a chat about web development and would love to share my insights and experiences with you.
 
 You can contact me via email, phone, or LinkedIn. Let's connect and start building something amazing together!
+</div>
