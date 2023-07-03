@@ -7,27 +7,27 @@
   
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
+<img align="right" src="https://lh3.googleusercontent.com/pw/AJFCJaUPJeN1HMQLG2Igbd4QG6qffoOsH_OqcQYS4Dmfm9Wr1doj0YTtNMGOcir9LZUMV4stSFiMOBaY8f8anksfyKMBK6YopuymeS0IX7_LMoe-DV3tyZ_KXa_uODjxv2T442qGGfkogaK9AN4L6RIGipdD=w612-h408-s-no" width="40%"/>
+
 👋 Hello there! I'm Babiker Makkawi, a 🚀 Laravel web developer with a passion for crafting memorable digital experiences.
 
 💻 Skills
 I'm proficient in a variety of web development tools and technologies, including:
 
-<img align="right" src="https://lh3.googleusercontent.com/pw/AJFCJaUPJeN1HMQLG2Igbd4QG6qffoOsH_OqcQYS4Dmfm9Wr1doj0YTtNMGOcir9LZUMV4stSFiMOBaY8f8anksfyKMBK6YopuymeS0IX7_LMoe-DV3tyZ_KXa_uODjxv2T442qGGfkogaK9AN4L6RIGipdD=w612-h408-s-no" width="40%"/>
-
   🌐 HTML
-🎨 CSS
-👢 Bootstrap
-🌪️ Tailwind
-🔪 Blade
+  🎨 CSS
+  👢 Bootstrap
+  🌪️ Tailwind
+  🔪 Blade
 
-🚀 Laravel
-🐘 PHP
-🌐 JavaScript
-🔍 jQuery
+  🚀 Laravel
+  🐘 PHP
+  🌐 JavaScript
+  🔍 jQuery  
 
-📜 Git
-💻 GitHub
-🖥️ GitHub Desktop
+  📜 Git
+  💻 GitHub
+  🖥️ GitHub Desktop
 
 My expertise lies in Laravel, a powerful PHP framework that enables me to create scalable and efficient web applications with ease. I'm well-versed in leveraging the full potential of this framework to deliver top-notch digital solutions that meet and exceed my clients' expectations.
 
