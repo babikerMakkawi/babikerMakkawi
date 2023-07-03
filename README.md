@@ -1,3 +1,10 @@
+💫 B
+🌟 A
+✨ B
+💫 I
+🌟 K
+✨ E
+💫 R
 👋 Hello there! I'm Babiker Makkawi, a 🚀 Laravel web developer with a passion for crafting memorable digital experiences.
 
 💻 Skills
