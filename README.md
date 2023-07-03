@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
 <p align="center" >
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%"/></p>
+  <img src="https://infynno.com/wp-content/uploads/2022/01/infynno-solutions.gif" width="100%"/></p>
 
 👋 Hello there! I'm Babiker Makkawi, a 🚀 Laravel web developer with a passion for crafting memorable digital experiences.
 
