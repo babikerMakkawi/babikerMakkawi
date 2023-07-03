@@ -12,7 +12,9 @@
 💻 Skills
 I'm proficient in a variety of web development tools and technologies, including:
 
-<img src="https://photos.google.com/share/AF1QipNzj28f6NE_D3rs9f2SiIjgrnsTwPkg3mBlyLUNW7l8lj4m7ywMV63E7yhArJebDQ/photo/AF1QipNmFgrbfI9cmHOJVwu5Qp8XsRHsh1zCJ9FssiFn?key=d1BMVm1WN0tsZGNmUjg1c1p2ZTNJVnNiQlR1TXhn" width="50%" style="float:end;"/>
+<img src="[https://photos.google.com/share/AF1QipNzj28f6NE_D3rs9f2SiIjgrnsTwPkg3mBlyLUNW7l8lj4m7ywMV63E7yhArJebDQ/photo/AF1QipNmFgrbfI9cmHOJVwu5Qp8XsRHsh1zCJ9FssiFn?key=d1BMVm1WN0tsZGNmUjg1c1p2ZTNJVnNiQlR1TXhn](https://lh3.googleusercontent.com/pw/AJFCJaUPJeN1HMQLG2Igbd4QG6qffoOsH_OqcQYS4Dmfm9Wr1doj0YTtNMGOcir9LZUMV4stSFiMOBaY8f8anksfyKMBK6YopuymeS0IX7_LMoe-DV3tyZ_KXa_uODjxv2T442qGGfkogaK9AN4L6RIGipdD=w612-h408-s-no)" 
+  width="50%" 
+  style="float:right;"/>
 
 🌐 HTML
 🎨 CSS
