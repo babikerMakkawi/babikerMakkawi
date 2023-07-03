@@ -7,14 +7,16 @@ I'm proficient in a variety of web development tools and technologies, including
 🎨 CSS
 👢 Bootstrap
 🌪️ Tailwind
-📜 Git
-💻 GitHub
-🖥️ GitHub Desktop
+🔪 Blade
+
 🚀 Laravel
 🐘 PHP
 🌐 JavaScript
 🔍 jQuery
-🔪 Blade
+
+📜 Git
+💻 GitHub
+🖥️ GitHub Desktop
 
 My expertise lies in Laravel, a powerful PHP framework that enables me to create scalable and efficient web applications with ease. I'm well-versed in leveraging the full potential of this framework to deliver top-notch digital solutions that meet and exceed my clients' expectations.
 
@@ -25,10 +27,12 @@ With my extensive experience in PHP and JavaScript, I'm able to develop highly f
 
 I'm well-versed in server management, including working with servers such as Ubuntu, Apache, and Nginx, and I'm confident in deploying projects across various hosting platforms.
 
-💖 Passion
+💖 Passion:
+
 Apart from my technical skills, I'm especially passionate about creating exceptional user experiences. I believe that the best websites and web applications are those that are not just functional and efficient, but also intuitive and visually stunning. I'm always on the lookout for new and innovative ways to elevate my craft and stay abreast of the latest industry trends and technologies.
 
-📩 Get in touch!
+📩 Get in touch:
+
 I'm always eager to collaborate with like-minded individuals and businesses on exciting web development projects. If you're looking for a web developer who is passionate about creating exceptional digital experiences, look no further!
 
 Whether you have questions about my work or are interested in discussing a potential collaboration, feel free to reach out to me anytime. I'm always up for a chat about web development and would love to share my insights and experiences with you.
