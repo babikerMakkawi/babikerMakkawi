@@ -12,11 +12,13 @@
 💻 Skills
 I'm proficient in a variety of web development tools and technologies, including:
 
+<p>
 <img src="https://lh3.googleusercontent.com/pw/AJFCJaUPJeN1HMQLG2Igbd4QG6qffoOsH_OqcQYS4Dmfm9Wr1doj0YTtNMGOcir9LZUMV4stSFiMOBaY8f8anksfyKMBK6YopuymeS0IX7_LMoe-DV3tyZ_KXa_uODjxv2T442qGGfkogaK9AN4L6RIGipdD=w612-h408-s-no" 
   width="50%" 
-  style="float:right;"/>
+  style="float:left;"/>
 
-🌐 HTML
+<div style="float:right;">
+  🌐 HTML
 🎨 CSS
 👢 Bootstrap
 🌪️ Tailwind
@@ -30,6 +32,9 @@ I'm proficient in a variety of web development tools and technologies, including
 📜 Git
 💻 GitHub
 🖥️ GitHub Desktop
+</div>
+
+</p>
 
 My expertise lies in Laravel, a powerful PHP framework that enables me to create scalable and efficient web applications with ease. I'm well-versed in leveraging the full potential of this framework to deliver top-notch digital solutions that meet and exceed my clients' expectations.
 
