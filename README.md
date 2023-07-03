@@ -29,9 +29,7 @@ Working with servers such as Ubuntu, Apache, and Nginx is second nature to me, a
 Overall, my proficiency in Laravel and server management allows me to deliver high-quality web applications that are both robust and reliable.
 With my extensive experience in PHP and JavaScript, I'm able to develop highly functional and interactive web applications that drive results. I also leverage the power of Laravel's Blade templating engine to create seamless and dynamic user interfaces.
 
-I'm well-versed in server management, including working with servers such as Ubuntu, Apache, and Nginx, and I'm confident in deploying projects across various hosting platforms.
-
-💖 Passion:
+💖 Passion:</br>
 Apart from my technical skills, I'm especially passionate about creating exceptional user experiences. I believe that the best websites and web applications are those that are not just functional and efficient, but also intuitive and visually stunning. I'm always on the lookout for new and innovative ways to elevate my craft and stay abreast of the latest industry trends and technologies.
 
 📩 Get in touch:
