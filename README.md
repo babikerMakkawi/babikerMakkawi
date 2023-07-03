@@ -1,11 +1,18 @@
-<div style="background-color: #f1edf0; !important;">
-<h1><p align="center">Hello, I'm Babiker Makkawi<a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h2>
+  <p align="center">
+    Hello, I'm Babiker Makkawi 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  </p>
+</h2>
+  
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
 👋 Hello there! I'm Babiker Makkawi, a 🚀 Laravel web developer with a passion for crafting memorable digital experiences.
 
 💻 Skills
 I'm proficient in a variety of web development tools and technologies, including:
+
+<img src="https://photos.google.com/share/AF1QipNzj28f6NE_D3rs9f2SiIjgrnsTwPkg3mBlyLUNW7l8lj4m7ywMV63E7yhArJebDQ/photo/AF1QipNmFgrbfI9cmHOJVwu5Qp8XsRHsh1zCJ9FssiFn?key=d1BMVm1WN0tsZGNmUjg1c1p2ZTNJVnNiQlR1TXhn" width="50%" style="float:end;"/>
 
 🌐 HTML
 🎨 CSS
@@ -32,7 +39,7 @@ With my extensive experience in PHP and JavaScript, I'm able to develop highly f
 💖 Passion:</br>
 Apart from my technical skills, I'm especially passionate about creating exceptional user experiences. I believe that the best websites and web applications are those that are not just functional and efficient, but also intuitive and visually stunning. I'm always on the lookout for new and innovative ways to elevate my craft and stay abreast of the latest industry trends and technologies.
 
-📩 Get in touch:
+📩 Get in touch:</br>
 I'm always eager to collaborate with like-minded individuals and businesses on exciting web development projects. If you're looking for a web developer who is passionate about creating exceptional digital experiences, look no further!
 
 Whether you have questions about my work or are interested in discussing a potential collaboration, feel free to reach out to me anytime. I'm always up for a chat about web development and would love to share my insights and experiences with you.
@@ -42,4 +49,3 @@ You can contact me via email, phone, or LinkedIn. Let's connect and start buildi
 <p align="center" >
   <img src="https://infynno.com/wp-content/uploads/2022/01/infynno-solutions.gif" width="100%"/>
 </p>
-</div>
