@@ -20,11 +20,24 @@
 💻 Skills: <br>
 I'm proficient in a variety of web development tools and technologies, including:
 
-  🌐 HTML
-  🎨 CSS
-  👢 Bootstrap
-  🌪️ Tailwind
-  🔪 Blade
+<div class="d-flex align-items-center gap-2">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="height:16px; display:inline-block !important;"/>
+  HTML
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="height:16px; display:inline-block !important;"/>
+  CSS
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" style="height:16px; display:inline-block !important;"/>
+  Bootstrap
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d5/20230715030041%21Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" style="height:16px; display:inline-block !important;"/>
+  Tailwind
+
+  <img src="https://4.bp.blogspot.com/-QAibDztNc0s/WzADDIlhO6I/AAAAAAAAEro/a0qvS45GdJkGL0xT76XrSmveiUuIBNzTwCLcBGAs/s1600/1427031865laravelblade.png" style="height:16px; display:inline-block !important;"/>
+  Blade Template Engine
+</div>
+
+</br>
 
 <div class="d-flex align-items-center gap-2">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="height:16px; display:inline-block !important;"/>
@@ -46,13 +59,13 @@ I'm proficient in a variety of web development tools and technologies, including
 <br>
 
 <div class="d-flex align-items-center gap-2">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="height:16px; display:inline-block !important;"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="height:16px; display:inline-block !important;"/>
   Git
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" style="height:16px; display:inline-block !important;"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="height:16px; display:inline-block !important;"/>
   GitHub
   
-  <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" style="height:16px; display:inline-block !important;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" style="height:16px; display:inline-block !important;"/>
   GitHub Desktop
 </div>
   
