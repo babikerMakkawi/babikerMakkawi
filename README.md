@@ -34,7 +34,7 @@ I'm proficient in a variety of web development tools and technologies, including
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" style="width:16px; height:16px; display:inline-block !important;"/>
   JavaScript
 
-  <img src="https://www.chicagocomputerclasses.com/wp-content/uploads/2016/01/jquery.gif" style="width:16px; height:16px; display:inline-block !important;"/>
+  <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" style="width:16px; height:16px; display:inline-block !important;"/>
   jQuery
 
   <img src="https://www.w3schools.com/whatis/img_ajax.jpg" style="width:16px; height:16px; display:inline-block !important;"/>
