@@ -1,3 +1,6 @@
+<head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+</head>
 <h2>
   <p align="center">
     Hello, I'm Babiker Makkawi 
@@ -21,10 +24,11 @@ I'm proficient in a variety of web development tools and technologies, including
   🌪️ Tailwind
   🔪 Blade
 
-<div>
+<div class="d-flex align-items-center gap-2">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="width:16px; height:16px; display:inline-block !important;"/>
   Laravel
 </div>
+
   🐘 PHP
   🌐 JavaScript
   🔍 jQuery  
