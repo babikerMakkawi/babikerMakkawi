@@ -21,6 +21,7 @@ I'm proficient in a variety of web development tools and technologies, including
   🌪️ Tailwind
   🔪 Blade
 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="width:32px; height:32px;"/>
   🚀 Laravel
   🐘 PHP
   🌐 JavaScript
