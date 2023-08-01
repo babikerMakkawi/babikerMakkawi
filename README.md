@@ -25,22 +25,23 @@ I'm proficient in a variety of web development tools and technologies, including
   🔪 Blade
 
 <div class="d-flex align-items-center gap-2">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="width:16px; height:16px; display:inline-block !important;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="height:16px; display:inline-block !important;"/>
   Laravel
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" style="height:16px; display:inline-block !important;"/>
   PHP
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" style="width:16px; height:16px; display:inline-block !important;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" style="height:16px; display:inline-block !important;"/>
   JavaScript
 
-  <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" style="width:16px; height:16px; display:inline-block !important;"/>
+  <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" style="height:16px; display:inline-block !important;"/>
   jQuery
 
-  <img src="https://www.w3schools.com/whatis/img_ajax.jpg" style="width:16px; height:16px; display:inline-block !important;"/>
+  <img src="https://www.w3schools.com/whatis/img_ajax.jpg" style="height:16px; display:inline-block !important;"/>
   Ajax
 
 </div>
+
 
   📜 Git
   💻 GitHub
