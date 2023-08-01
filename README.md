@@ -26,10 +26,10 @@ I'm proficient in a variety of web development tools and technologies, including
 
 <div class="d-flex align-items-center gap-2">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="width:16px; height:16px; display:inline-block !important;"/>
-  Laravel
+  <p>Laravel</p>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="width:16px; height:16px; display:inline-block !important;"/>
-  PHP
+  <p>PHP</p>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="width:16px; height:16px; display:inline-block !important;"/>
   JavaScript
