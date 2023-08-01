@@ -1,6 +1,8 @@
 <head>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 </head>
+<body>
+  
 <h2>
   <p align="center">
     Hello, I'm Babiker Makkawi 
@@ -39,13 +41,20 @@ I'm proficient in a variety of web development tools and technologies, including
 
   <img src="https://www.w3schools.com/whatis/img_ajax.jpg" style="height:16px; display:inline-block !important;"/>
   Ajax
-
 </div>
 
+<br>
 
-  📜 Git
-  💻 GitHub
-  🖥️ GitHub Desktop
+<div class="d-flex align-items-center gap-2">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="height:16px; display:inline-block !important;"/>
+  Git
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" style="height:16px; display:inline-block !important;"/>
+  GitHub
+  
+  <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" style="height:16px; display:inline-block !important;"/>
+  GitHub Desktop
+</div>
   
 <hr>
 My expertise lies in Laravel, a powerful PHP framework that enables me to create scalable and efficient web applications with ease. I'm well-versed in leveraging the full potential of this framework to deliver top-notch digital solutions that meet and exceed my clients' expectations.
@@ -68,3 +77,4 @@ You can contact me via email, phone, or LinkedIn. Let's connect and start buildi
 <p align="center" >
   <img src="https://infynno.com/wp-content/uploads/2022/01/infynno-solutions.gif" width="100%"/>
 </p>
+</body>
