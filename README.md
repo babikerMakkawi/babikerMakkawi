@@ -40,6 +40,10 @@ I'm proficient in a variety of web development tools and technologies, including
 </br>
 
 <div class="d-flex align-items-center gap-2">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" style="height:16px; display:inline-block !important;"/>
+  Dotnet CORE
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="height:16px; display:inline-block !important;"/>
   Laravel
   
