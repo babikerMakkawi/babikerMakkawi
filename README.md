@@ -2,14 +2,14 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 </head>
 <body>
-  <a class="btn btn-danger">My Link</a>
+
 <h2>
   <p align="center">
     Hello, I'm Babiker Makkawi 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   </p>
 </h2>
-  
+    <a class="btn btn-danger">My Link</a>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
 <img align="right" src="https://lh3.googleusercontent.com/pw/AJFCJaUPJeN1HMQLG2Igbd4QG6qffoOsH_OqcQYS4Dmfm9Wr1doj0YTtNMGOcir9LZUMV4stSFiMOBaY8f8anksfyKMBK6YopuymeS0IX7_LMoe-DV3tyZ_KXa_uODjxv2T442qGGfkogaK9AN4L6RIGipdD=w612-h408-s-no" width="350"/>
