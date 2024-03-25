@@ -35,6 +35,10 @@ I'm proficient in a variety of web development tools and technologies, including
 
   <img src="https://4.bp.blogspot.com/-QAibDztNc0s/WzADDIlhO6I/AAAAAAAAEro/a0qvS45GdJkGL0xT76XrSmveiUuIBNzTwCLcBGAs/s1600/1427031865laravelblade.png" style="height:16px; display:inline-block !important;"/>
   Blade Template Engine
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" style="height:16px; display:inline-block !important;"/>
+  Vue JS
+  
 </div>
 
 </br>
