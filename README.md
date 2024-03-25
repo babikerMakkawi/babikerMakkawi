@@ -26,15 +26,17 @@ I'm proficient in a variety of web development tools and technologies, including
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="height:16px; display:inline-block !important;"/>
   CSS
+
+  <img src="https://4.bp.blogspot.com/-QAibDztNc0s/WzADDIlhO6I/AAAAAAAAEro/a0qvS45GdJkGL0xT76XrSmveiUuIBNzTwCLcBGAs/s1600/1427031865laravelblade.png" style="height:16px; display:inline-block !important;"/>
+  Blade Template Engine
+
+  <br/>
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" style="height:16px; display:inline-block !important;"/>
   Bootstrap
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d5/20230715030041%21Tailwind_CSS_Logo.svg/120px-Tailwind_CSS_Logo.svg.png" style="height:16px; display:inline-block !important;"/>
   Tailwind
-
-  <img src="https://4.bp.blogspot.com/-QAibDztNc0s/WzADDIlhO6I/AAAAAAAAEro/a0qvS45GdJkGL0xT76XrSmveiUuIBNzTwCLcBGAs/s1600/1427031865laravelblade.png" style="height:16px; display:inline-block !important;"/>
-  Blade Template Engine
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" style="height:16px; display:inline-block !important;"/>
   Vue JS
